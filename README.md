@@ -26,3 +26,9 @@ Dataset properti dengan berbagai fitur numerik yang menggambarkan atribut sepert
 ## 📈 Hasil Evaluasi
 Model XGBRegressor tanpa hyperparameter sebagai model terbaik karena memiliki rmse paling kecil.
 
+## 🚀 Cara Menjalankan
+
+1. Unduh notebook ini atau buka di Google Colab.
+2. Jalankan setiap sel secara berurutan.
+3. Perhatikan perbandingan hasil prediksi dan performa model.
+
